@@ -1,6 +1,6 @@
 # Hi there! 👋<br>
 
-## I'm Happy Gery Pangestu, a passionate Data Engineering and Machine Learning🌍<br>
+## I'm Happy Gery Pangestu, a passionate person in Data Engineering and Machine Learning🌍<br>
 
 🔭 I’m currently learn how to make good model, get insight from the data to make the world a better place.<br>
 <br>
