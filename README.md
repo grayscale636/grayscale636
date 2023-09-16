@@ -8,9 +8,7 @@
 <br>
 🤝 I’m looking to collaborate on GitHub or Kaggle.<br>
 <br>
-💬 Ask me about Data Science World.<br>
-<br>
-📫 How to reach me: gerypangestu254@gmail.com<br>
+📫 How to reach me: you can contact me in gerypangestu254@gmail.com<br>
 <br>
 😄 Pronouns: He/Him.<br>
 <br>
