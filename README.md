@@ -2,8 +2,6 @@
 
 ## I'm Happy Gery Pangestu, a passionate person in Data Engineering and Machine Learning🌍<br>
 
-🔭 I’m currently learn how to make good model, get insight from the data to make the world a better place.<br>
-<br>
 🌱 I’m currently learning AI, ML, and DL.<br>
 <br>
 🤝 I’m looking to collaborate on GitHub or Kaggle.<br>
