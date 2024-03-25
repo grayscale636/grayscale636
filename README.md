@@ -9,8 +9,6 @@
 📫 How to reach me: you can contact me in gerypangestu254@gmail.com<br>
 <br>
 😄 Pronouns: He/Him.<br>
-<br>
-⚡ Fun fact: I can't use Bankai.<br>
 
 
 <h3 align="left">Connect with me:</h3>
